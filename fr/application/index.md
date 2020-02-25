@@ -14,6 +14,6 @@ Vous pouvez installer l'application Android directement depuis Google Play. Rech
 
 ### iOS
 
-Pour installer l'application en version bêta sur iOS, vous devez utiliser [TestFlight](https://apps.apple.com/fr/app/testflight/id899247664). Pour rejoindre le programme de tests bêta, cliquez sur le lien ci-dessous.
+Vous pouvez installer l'application iOS directement depuis l'App Store. Recherchez "CoopCycle" sur l'App Store, ou cliquez sur le lien ci-dessous.
 
-[Rejoindre la bêta CoopCycle sur iOS](https://testflight.apple.com/join/oZm4kOB0){: .btn .btn-purple }
+[Installer l'application pour iOS](https://apps.apple.com/fr/app/coopcycle/id1324884530){: .btn .btn-purple }
